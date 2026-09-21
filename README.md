@@ -3,7 +3,7 @@
 ชุดไฟล์นี้พร้อมนำขึ้น GitHub Pages
 
 ## โครงสร้าง
-- `index.html` — หน้าเว็บไซต์หลัก
+- `index.html — หน้าเว็บไซต์หลัก
 - `images/` — สำหรับรูปจริงของร้าน
 - `apps-script/Code.gs` — Backend สำหรับบันทึกการจองลง Google Sheet
 - `apps-script/SETUP-Google-Sheet.txt` — คู่มือตั้งค่า Google Apps Script
